@@ -32,7 +32,5 @@ branches:
  only:
  - master
 secure:
-- curl -u zoghal/pfont-1 \
--d '{"scopes":["public_repo"],"note":"FontBakery for Pfont"}' \
- -s "https://api.github.com/authorizations";
+-  curl -u zoghal/pfont-1  -d '{"scopes":["public_repo"],"note":"FontBakery for Pfont"}'  -s "https://api.github.com/authorizations";
  
