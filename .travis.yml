@@ -16,7 +16,7 @@ before_install:
 - sudo make install
 - cd ..
 install:
-- - pip install --upgrade pip
+- pip install pip --upgrade
 - pip install pyicu
 - pip install git+https://github.com/behdad/fontTools.git
 - pip install git+https://github.com/googlefonts/fontcrunch.git
