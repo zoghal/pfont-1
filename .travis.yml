@@ -16,6 +16,7 @@ before_install:
 - sudo make install
 - cd ..
 install:
+- - pip install --upgrade pip
 - pip install pyicu
 - pip install git+https://github.com/behdad/fontTools.git
 - pip install git+https://github.com/googlefonts/fontcrunch.git
@@ -29,8 +30,12 @@ after_script:
 - rm -rf builds/$TRAVIS_COMMIT/build.state.yaml
 - PATH=/home/travis/virtualenv/python2.7.9/bin/:$PATH fontbakery-travis-deploy.py
 branches:
- only:
- - master
-secure:
--  curl -u zoghal/pfont-1  -d '{"scopes":["public_repo"],"note":"FontBakery for Pfont"}'  -s "https://api.github.com/authorizations";
+  only:
+  - master
+source:
+ curl -u zoghal/pfont-1 \
+       -d '{"scopes":["public_repo"],"note":"FontBakery for pfont-1"}' \
+       -s "https://api.github.com/authorizations";
+ sudo apt-get install ruby1.9.1-dev
+ sudo gem install travis -v 1.8.0 --no-rdoc --no-ri
  
