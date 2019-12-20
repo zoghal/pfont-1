@@ -5,10 +5,16 @@
   <outline>
     <component base="threedotsupabove-ar" yOffset="-1274"/>
     <contour>
-      <point x="311" y="-847" type="move" name="_bottom"/>
+      <point x="311" y="-857" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="301" y="-88" type="move" name="bottom"/>
+      <point x="301" y="-108" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:54:59 +0000</string>
+    </dict>
+  </lib>
 </glyph>

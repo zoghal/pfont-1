@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="meem-ar.isol" format="1">
-  <advance width="1279"/>
+  <advance width="1228"/>
   <unicode hex="FEE1"/>
   <outline>
     <component base="meem-ar"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 17:47:55 +0000</string>
+    </dict>
+  </lib>
 </glyph>

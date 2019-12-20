@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fatha-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="064E"/>
+  <outline>
+    <contour>
+      <point x="499" y="1099" type="line"/>
+      <point x="499" y="1192" type="line"/>
+      <point x="1" y="1020" type="line"/>
+      <point x="1" y="926" type="line"/>
+      <point x="1" y="927"/>
+      <point x="1" y="928"/>
+      <point x="0" y="928" type="curve"/>
+    </contour>
+    <contour>
+      <point x="250" y="1300" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="250" y="936" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:59:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

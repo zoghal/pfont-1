@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="1175"/>
+  <advance width="1138"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="1055" y="440" type="line"/>
-      <point x="1055" y="580" type="line"/>
-      <point x="120" y="1049" type="line"/>
-      <point x="120" y="900" type="line"/>
-      <point x="897" y="510" type="line"/>
-      <point x="120" y="119" type="line"/>
-      <point x="120" y="-30" type="line"/>
+      <point x="1018" y="422" type="line"/>
+      <point x="1018" y="557" type="line"/>
+      <point x="120" y="1007" type="line"/>
+      <point x="120" y="864" type="line"/>
+      <point x="866" y="490" type="line"/>
+      <point x="120" y="114" type="line"/>
+      <point x="120" y="-29" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:04:45 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
@@ -23,7 +25,7 @@
           <key>isGlobal</key>
           <integer>0</integer>
           <key>x</key>
-          <integer>-192</integer>
+          <string>-192</string>
           <key>y</key>
           <integer>1070</integer>
         </dict>
@@ -33,7 +35,7 @@
           <key>isGlobal</key>
           <integer>0</integer>
           <key>x</key>
-          <integer>-196</integer>
+          <string>-196</string>
           <key>y</key>
           <integer>0</integer>
         </dict>

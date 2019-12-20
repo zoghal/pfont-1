@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehRing-ar.fina" format="1">
-  <advance width="2013"/>
+  <advance width="1933"/>
   <outline>
     <component base="teh-ar.fina"/>
-    <component base="ringbelow-ar" xOffset="227" yOffset="329"/>
+    <component base="ringbelow-ar" xOffset="169" yOffset="391"/>
     <contour>
-      <point x="907" y="-247" type="move" name="bottom"/>
+      <point x="907" y="-240" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:16:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringbelow-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="661"/>
+  <advance width="655"/>
   <unicode hex="0022"/>
   <outline>
-    <component base="quotesingle" xOffset="280"/>
-    <component base="quotesingle" xOffset="15"/>
+    <component base="quotesingle" xOffset="270"/>
+    <component base="quotesingle" xOffset="5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:08:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

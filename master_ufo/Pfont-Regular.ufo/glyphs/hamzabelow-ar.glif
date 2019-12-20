@@ -3,12 +3,18 @@
   <advance width="0"/>
   <unicode hex="0655"/>
   <outline>
-    <component base="hamzacenter-ar" xOffset="-3" yOffset="-815"/>
+    <component base="hamzacenter-ar" yOffset="-815"/>
     <contour>
-      <point x="282" y="-110" type="move" name="_bottom"/>
+      <point x="285" y="-130" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="282" y="-918" type="move" name="bottom"/>
+      <point x="285" y="-958" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 15:56:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

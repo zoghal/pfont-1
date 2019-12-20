@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seenDotbelowDotabove-ar.medi" format="1">
-  <advance width="2036"/>
+  <advance width="1955"/>
   <outline>
     <component base="seen-ar.medi"/>
-    <component base="dotabove-ar" xOffset="826" yOffset="184"/>
-    <component base="dotbelow-ar" xOffset="971" yOffset="-85"/>
+    <component base="dotabove-ar" xOffset="802" yOffset="139"/>
+    <component base="dotbelow-ar" xOffset="930" yOffset="-41"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:22:38 +0000</string>
+    </dict>
+  </lib>
 </glyph>

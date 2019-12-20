@@ -1,56 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="question-ar" format="1">
-  <advance width="837"/>
+  <advance width="818"/>
   <unicode hex="061F"/>
   <outline>
     <contour>
-      <point x="569" y="433" type="line"/>
-      <point x="584" y="438"/>
-      <point x="592" y="449"/>
-      <point x="592" y="464" type="curve"/>
-      <point x="595" y="579" type="line"/>
-      <point x="595" y="819"/>
-      <point x="523" y="817"/>
-      <point x="232" y="1070" type="curve" smooth="yes"/>
-      <point x="230" y="1072"/>
-      <point x="228" y="1074"/>
-      <point x="228" y="1077" type="curve" smooth="yes"/>
-      <point x="228" y="1079"/>
-      <point x="229" y="1082"/>
-      <point x="230" y="1085" type="curve" smooth="yes"/>
-      <point x="279" y="1199"/>
-      <point x="380" y="1246"/>
-      <point x="484" y="1246" type="curve" smooth="yes"/>
-      <point x="551" y="1246"/>
-      <point x="620" y="1226"/>
-      <point x="676" y="1191" type="curve" smooth="yes"/>
-      <point x="680" y="1188"/>
-      <point x="685" y="1187"/>
-      <point x="689" y="1187" type="curve" smooth="yes"/>
-      <point x="702" y="1187"/>
-      <point x="713" y="1199"/>
-      <point x="713" y="1216" type="curve" smooth="yes"/>
-      <point x="713" y="1322" type="line" smooth="yes"/>
-      <point x="713" y="1335"/>
-      <point x="708" y="1344"/>
-      <point x="696" y="1353" type="curve" smooth="yes"/>
-      <point x="629" y="1404"/>
-      <point x="552" y="1428"/>
-      <point x="477" y="1428" type="curve" smooth="yes"/>
-      <point x="294" y="1428"/>
-      <point x="120" y="1285"/>
-      <point x="120" y="1046" type="curve" smooth="yes"/>
-      <point x="120" y="879"/>
-      <point x="237" y="836"/>
-      <point x="356" y="723" type="curve" smooth="yes"/>
-      <point x="432" y="652"/>
-      <point x="464" y="624"/>
-      <point x="462" y="529" type="curve" smooth="yes"/>
-      <point x="460" y="432" type="line" smooth="yes"/>
-      <point x="460" y="415"/>
-      <point x="469" y="404"/>
-      <point x="482" y="406" type="curve"/>
+      <point x="551" y="416" type="line"/>
+      <point x="566" y="420"/>
+      <point x="573" y="431"/>
+      <point x="573" y="445" type="curve"/>
+      <point x="576" y="556" type="line"/>
+      <point x="576" y="786"/>
+      <point x="507" y="784"/>
+      <point x="228" y="1027" type="curve" smooth="yes"/>
+      <point x="226" y="1029"/>
+      <point x="224" y="1031"/>
+      <point x="224" y="1034" type="curve" smooth="yes"/>
+      <point x="224" y="1036"/>
+      <point x="225" y="1039"/>
+      <point x="226" y="1042" type="curve" smooth="yes"/>
+      <point x="273" y="1151"/>
+      <point x="370" y="1196"/>
+      <point x="470" y="1196" type="curve" smooth="yes"/>
+      <point x="534" y="1196"/>
+      <point x="600" y="1177"/>
+      <point x="654" y="1143" type="curve" smooth="yes"/>
+      <point x="658" y="1140"/>
+      <point x="663" y="1140"/>
+      <point x="666" y="1140" type="curve" smooth="yes"/>
+      <point x="679" y="1140"/>
+      <point x="689" y="1151"/>
+      <point x="689" y="1167" type="curve" smooth="yes"/>
+      <point x="689" y="1269" type="line" smooth="yes"/>
+      <point x="689" y="1282"/>
+      <point x="685" y="1290"/>
+      <point x="673" y="1299" type="curve" smooth="yes"/>
+      <point x="609" y="1348"/>
+      <point x="535" y="1371"/>
+      <point x="463" y="1371" type="curve" smooth="yes"/>
+      <point x="287" y="1371"/>
+      <point x="120" y="1234"/>
+      <point x="120" y="1004" type="curve" smooth="yes"/>
+      <point x="120" y="844"/>
+      <point x="233" y="803"/>
+      <point x="347" y="694" type="curve" smooth="yes"/>
+      <point x="420" y="626"/>
+      <point x="450" y="599"/>
+      <point x="449" y="508" type="curve" smooth="yes"/>
+      <point x="447" y="415" type="line" smooth="yes"/>
+      <point x="447" y="398"/>
+      <point x="455" y="388"/>
+      <point x="468" y="390" type="curve"/>
     </contour>
-    <component base="period" xOffset="277" yOffset="-21" xScale="0.876" yScale="0.876"/>
+    <component base="period" xOffset="271" yOffset="-20" xScale="0.876" yScale="0.876"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-20 16:06:04 +0000</string>
+    </dict>
+  </lib>
 </glyph>
